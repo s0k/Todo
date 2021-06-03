@@ -92,6 +92,10 @@ Windows
 
 - ~~cmd命令~~
 
+- vbs
+
+- bat编写
+
 - 域网络搭建
 
 - Wmic
