@@ -35,6 +35,8 @@ https://www.sqlsec.com/2020/10/todo.html
 除了需要重点进阶一下js，别的优先级不是很高
 
 *    ~~HTML、CSS、JS 基础~~
+*    ~~开发者工具使用~~
+*    ~~js代码调试~~
      
 *   Vue
     
