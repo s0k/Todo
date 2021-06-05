@@ -15,7 +15,9 @@ https://blog.knownsec.com/Knownsec_RD_Checklist/index.html
 https://github.com/phith0n/Mind-Map
 
 该技能表会一直更新维护,内容不会很列细，毕竟只是用来指引方向确定学习目标。   
-项目每一次更新都代表我在学习。   
+项目更新一次，也意味着我进步一次。
+
+看再多的视频和文章都不如自己实操一遍，学安全动手能力很重要。   
 
 列表参考国光大佬的国光的安全随笔记录   
 https://www.sqlsec.com/2020/10/todo.html
