@@ -105,8 +105,6 @@ Windows
 
 - 域网络搭建
 
-- Wmic
-
 - powershell
 
 - Windows 安全加固基础
@@ -240,7 +238,7 @@ C/C++
 *  burp插件编写
 *    ~~MSF 基础使用~~
 *    MSF 常用模块学习
-*    MSF 内网穿透路由
+*    ~~MSF 内网穿透路由~~
 *    ~~CS 基础使用~~
 *    CS 穿内网
 *    CS 插件开发
@@ -449,6 +447,15 @@ SSRF 的实战场景不多，而且信息收集方面也具有局限性，如果
 *    Windows 认证加密方式
 *    Covenant C2 学习使用
 *   SILENTTRINITY C2 学习使用
+*   常见横向移动命令实操
+     *   at
+     *  psexec
+     *  WMIC
+     *  wmiexec
+     *  smbexec
+     *  powershell remoting
+     *  DCOM
+
 
 
 
