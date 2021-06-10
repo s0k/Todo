@@ -23,7 +23,7 @@ https://github.com/phith0n/Mind-Map
 列表参考国光大佬的国光的安全随笔记录   
 https://www.sqlsec.com/2020/10/todo.html
 
-TASK 2021.6.10
+TASK 2021.6
 ==
 1. 域渗透知识学习
 2. 通关至少两个vulnstack靶机
