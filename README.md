@@ -20,9 +20,6 @@ https://github.com/phith0n/Mind-Map
 
 看再多的视频和文章都不如自己实操一遍，学安全动手能力很重要。   
 
-列表参考国光大佬的国光的安全随笔记录   
-https://www.sqlsec.com/2020/10/todo.html
-
 TASK 2021.6
 ==
 1. 域渗透知识学习
