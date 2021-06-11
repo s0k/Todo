@@ -110,7 +110,7 @@ Windows
 
 - bat编写
 
-- 域网络搭建
+- ~~域网络搭建~~
 
 - powershell
 
