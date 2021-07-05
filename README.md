@@ -20,11 +20,11 @@ https://github.com/phith0n/Mind-Map
 
 看再多的视频和文章都不如自己实操一遍，学安全动手能力很重要。   
 
-TASK 2021.6
+TASK 2021.7
 ==
-1. 域渗透知识学习
-2. 通关至少两个vulnstack靶机
-
+1. java反射复习
+2. cc链分析
+3. 
 
 安全技能
 ==
