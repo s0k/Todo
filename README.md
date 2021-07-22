@@ -28,7 +28,7 @@ TASK 2021.7
 2. ~~cc链分析~~
 3. ~~shiro回显~~
 4. ~~tomcat内存马~~
-5. Fastjson bcel分析
+5. ~~Fastjson bcel分析~~
 6. 输出shiro利用工具
 
 安全技能
