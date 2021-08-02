@@ -197,7 +197,8 @@ Python
 
 JAVA
 ------------------------------------------------------------
-2021.7.12 java相关反序列基本入门    
+2021.7.12 java相关反序列基本入门  
+2021.8.1  java安全大进步
 
 
 *    ~~JAVA 基础语法~~
@@ -208,9 +209,16 @@ JAVA
 *    ~~JAVA CC链分析~~
 *    ~~JAVA 反射入门~~
 *    ~~shiro 反序列~~
-*    ~~fastjson反序列~~
-*   ~~JAVA Web 代码审计~~
-*    tomcat内存马
+*    ~~fastjson<1.2.48反序列~~
+*    ~~JAVA Web 代码审计~~
+*    ~~tomcat内存马基础知识~~
+*    ~~tomcat内存马注入~~
+*    ~~tomcat通用回显~~
+*    ~~tomcat内存马~~
+*    ~~Fastjson bcel分析~~
+*    ~~Fastjson jndi注入~~
+*    ~~Fastjson template利用~~
+*    ~~开发shiro利用工具~~
 *    weblogic相关cve分析
 *    Jboss相关cve分析
 
