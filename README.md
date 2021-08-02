@@ -22,14 +22,12 @@ https://github.com/phith0n/Mind-Map
 
 看再多的视频和文章都不如自己实操一遍，学安全动手能力很重要。   
 
-TASK 2021.7
+TASK 2021.8
 ==
-1. ~~java反射复习~~
-2. ~~cc链分析~~
-3. ~~shiro回显~~
-4. ~~tomcat内存马~~
-5. ~~Fastjson bcel分析~~
-6. 输出shiro利用工具
+1. 免杀基础知识
+2. 加密混淆免杀
+3. shellcode分离免杀
+4. 
 
 安全技能
 ==
