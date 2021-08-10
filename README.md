@@ -24,7 +24,7 @@ https://github.com/phith0n/Mind-Map
 
 TASK 2021.8
 ==
-1. 免杀基础知识
+1. ~~免杀基础知识~~
 2. 加密混淆免杀
 3. shellcode分离免杀
 4. 
