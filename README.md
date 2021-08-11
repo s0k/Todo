@@ -25,9 +25,13 @@ https://github.com/phith0n/Mind-Map
 TASK 2021.8
 ==
 1. ~~免杀基础知识~~
-2. 加密混淆免杀
-3. shellcode分离免杀
-4. 
+2. ~~xor加密混淆免杀~~
+3. base64编码混淆免杀
+4. 现代密码加密混淆免杀
+5. shellcode分离免杀-文件
+6. shellcode分离免杀-图片
+7. 免杀关键可用api探索
+8. 动态免杀
 
 安全技能
 ==
