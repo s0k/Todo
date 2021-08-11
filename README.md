@@ -53,14 +53,6 @@ TASK 2021.8
 *    ~~HTML、CSS、JS 基础~~
 *    ~~开发者工具使用~~
 *    ~~js代码调试~~
-     
-*   Vue
-    
-*   NodeJS
-    
-*   React
-*   AngularJS
-    
 *   JS 进阶知识学习
 
 
@@ -70,6 +62,8 @@ TASK 2021.8
 - ~~基础知识~~
 - ~~简单网络配置~~
 - osi模型
+- 
+- wireshark进阶
 - ~~wireshark入门~~
 - 各种协议包分析
 - ~~fd抓包~~
@@ -87,6 +81,7 @@ Linux
 *    ~~Linux 基础知识~~
 *    ~~Linux 常用命令~~
 *    ~~文本处理三剑客入门~~
+*    Linux底层知识补充
 *    文本处理三剑客进阶
 *    Linux 进阶知识
 *    ~~简单bash~~
