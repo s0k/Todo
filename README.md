@@ -24,8 +24,8 @@ https://github.com/phith0n/Mind-Map
 
 TASK 2021.9
 ==
-1. php5基础知识复习
-2. php7新特性学习
+1. ~~php5基础知识复习~~
+2. ~~php7新特性了解~~
 3. php常见漏洞
 4. tp框架学习
 5. tp3漏洞总结
