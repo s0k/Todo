@@ -86,10 +86,7 @@ Linux
 *    ~~简单bash~~
 *    bash脚本进阶
 *    ~~Docker 基础使用~~
-*    DockerFile 简单编写
-*    DockerFile 深入理解
-*    Docker-compose 项目编写
-*    Dokcer-compose network 学习
+*    Docker进阶
 *    Linux 安全加固基础
 *    Linux 安全加固进阶
 
@@ -128,14 +125,12 @@ php没系统的学习过，目前停留在看得懂代码这个阶段，希望�
 *    ~~PHP 数据类型、变量、常量~~
 *    ~~PHP 表达式、运算符、流程控制~~
 *    ~~PHP 函数~~
-*    PHP 类与对象
+*    ~~PHP 类与对象~~
 *    PHP WebShell PHP5、PHP7 免杀
-*    PHP 弱类型与变量覆盖整理
-*    中国蚁剑自定义编码器特征改造
-*    过 D 盾命令执行 WebShell
+*    PHP常见漏洞
+*     WebShell免杀
 *    PHP 小型 CMS 代码审计
 *    PHP 大型 CMS 审计
-*    ThinkPHP 框架项目审计
 *    ~~thinkphp基础知识~~
 
 
@@ -186,8 +181,6 @@ Python
 *    Python Web 框架 Flask
 *    Python 程序设计思想
 *    ~~Python Web 简单爬虫~~
-*    Python Web 项目编写
-*    Python 前后端分离项目编写
 
 
 
@@ -243,11 +236,11 @@ C/C++
 
 安全工具
 ------------------------------------------------------------
-这块是必学必会。
+这块是必学必会。随便列几个，太多了慢慢加吧。
 
 *  ~~nmap基础使用~~
 *  ~~nmap常用命令~~
-*  nmap扫描脚本
+*  ~~nmap扫描脚本~~
 *  ~~burp基本使用~~
 *  ~~burp模块使用~~
 *  burp插件编写
@@ -255,9 +248,9 @@ C/C++
 *    MSF 常用模块学习
 *    ~~MSF 内网穿透路由~~
 *    ~~CS 基础使用~~
-*    CS 穿内网
+*    ~~CS 穿透内网~~
 *    CS 插件开发
-*    CS 冷门功能模块
+*    CS 钓鱼
 *    ~~CS 常用功能模块~~
 
 
@@ -283,8 +276,7 @@ SQL 注入
 *    MySQL 二次注入
 *    MySQL DNSLog 外带数据
 *    MySQL 异或注入
-*    MySQL 注入常规 Bypass 技巧
-*    MySQL 注入进阶 Bypass 技巧
+*    MySQL Bypass 技巧
 *    ~~SQLMap 基础使用~~
 *    SQLMap 进阶使用
 *    SQLMap Tamper 编写
@@ -300,7 +292,7 @@ SQL 注入
 
 感觉文件上传这一块姿势点比较好理解。
 
-一些简单的姿势，虽然都知道，但是一直没自己尝试一遍。
+一些简单的姿势都是基操，虽然都知道，但是一直没自己尝试一遍。
 
 *    %00 截断
 *    ~~非常规后缀绕过~~
@@ -351,7 +343,6 @@ XSS基操都会，Bypass 技巧缺乏整理
 *    XSS 一般 Bypass 技巧
 *    XSS 进阶 Bypass 技巧整理
 *    XSS 配合 CSRF 攻击
-*    XSS 配合反代钓鱼攻击
 *    XSS 实战技巧整理
 *    XSS HTTPonly Bypass 整理
 
@@ -367,7 +358,6 @@ CSRF比较容易，可以学习研究一下组合拳
 *    CSRF payload 实战技巧完善
 *    CSRF 实战案例收集整理
 *    CSRF Bypass 技巧整理
-*    CSRF 大型 SRC 与 XSS 配合挖掘
 
 
 
@@ -376,7 +366,9 @@ CSRF比较容易，可以学习研究一下组合拳
 
 反序列化内容比较多，对基本功要求比较高。
 即便之前做过开发，在分析java的cc利用链也需要反复查资料。
-php、.net、python的反序列化更是完全没了解过，这块是短板
+php、.net、python的反序列化更是完全没了解过，这块是短板    
+
+有待整理到各语言里面去
 
 
 *    ~~PHP 反序列化基础入门~~
